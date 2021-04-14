@@ -1,0 +1,27 @@
+#formMail {
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 20px;
+}
+
+body {
+    background-image: url(./images/background.jpg);
+    background-size: cover;
+}
+
+.container {
+    width: 800px;
+}
+
+#bgjumbotron {
+    padding: 30px;
+    background-color: white;
+    opacity: 80%;
+    border-radius: 30px;
+}
+
+#titlePage {
+    text-decoration: underline;
+}
